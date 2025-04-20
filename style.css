@@ -1,0 +1,91 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header{
+    background-color: aqua;
+    font-size: 20px;
+}
+
+
+h1{
+    color: lime;
+    text-align: center;
+}
+
+
+header{
+    background-color: lime;
+    border:1px solid lime;
+    border-radius:10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+
+header img{
+    padding:5px
+}
+
+
+footer p{
+    background-color: lime;
+    padding:5px;
+    font-size: 20px;
+}
+
+
+nav{
+    background-color: rgba(0, 179, 24, 0.653);
+    text-align: center; 
+}
+
+
+nav a{
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;                                  
+}
+
+
+select{
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 2px solid lightgrey;
+}
+
+
+select option{
+    background-color: lime;
+}
+
+
+.class1{
+    border: 1px solid lime;
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+main{
+    padding: 10px;
+}
+
+
+main p{
+    font-size: 20px;
+}
+
+
+main h2{
+    color: darkblue;
+}
+
+.class-ssilka{
+    text-decoration: none;
+    border: 3px solid rgb(33, 88, 33);
+    font-size: 20px;
+}
+
+
